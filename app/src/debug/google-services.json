@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196429688907",
+    "project_id": "fir-appdistributiondemo-d6283",
+    "storage_bucket": "fir-appdistributiondemo-d6283.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196429688907:android:2d35a6c0bccfb81a625dce",
+        "android_client_info": {
+          "package_name": "com.example.firebaseappdistribution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffocV-LYRoC3h_y8aezT1V69pw4FZO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
