@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
             FirebaseAppDistributionTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Dev Fest",
+                        name = "Hello Google",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
